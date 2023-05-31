@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seth Batterby</h1>
-<h3 align="center">Senior Frontend Developer</h3>
+<h3 align="center">Lead Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danbatsb" alt="danbatsb" /> </p>
 
