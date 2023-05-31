@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danbatsb" alt="danbatsb" /> </p>
 
 - 🔭 I’m currently working at [Thriva](https://thriva.co/)
-- 🌱  I’m currently learning Ruby
+- 🌱  I’m currently learning Ruby and React-Native
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbatsb&layout=compact&hide=html" alt="danbatsb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbatsb" alt="danbatsb" /></p>
 
 <!--
 **danbatsb/danbatsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
