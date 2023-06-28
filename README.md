@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danbatsb" alt="danbatsb" /> </p>
 
-- 🔭 I’m currently working at [Thriva](https://thriva.co/)
+- 🔭 I’m currently working at [Thriva](https://thriva.co/) as a lead software engineer, helping to build our mobile app and the tools and features to support our customers.
 - 🌱  I’m currently learning Ruby and React-Native
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbatsb" alt="danbatsb" /></p>
